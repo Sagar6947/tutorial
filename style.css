@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 7%;
+    background-color: azure;
+}
+
+.container nav a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn{
+    background-color: #03758f;
+    padding: 5px 20px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
